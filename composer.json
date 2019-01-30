@@ -1,0 +1,10 @@
+{
+    "name": "yongze/php-learn",
+    "authors": [
+        {
+            "name": "yongze.chen",
+            "email": "sapphire.php@gmail.com"
+        }
+    ],
+    "require": {}
+}
